@@ -67,9 +67,9 @@ O visual foi construído utilizando uma identidade elegante e feminina:
 
 ---
 
-## 🖼️ Preview
+## 🖼️ Preview do Projeto
 
-![Preview do projeto](./public/preview.png)
+![Studio P Concept](./public/preview.png)
 
 ---
 
@@ -105,11 +105,7 @@ npm run dev
 
 **Paula Bezerra**
 
-Desenvolvedora Front-End em formação.
+Desenvolvedora Front-End.
 
-### Contato
 
-- LinkedIn
-- GitHub
-- E-mail
 
