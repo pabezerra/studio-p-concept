@@ -1,16 +1,115 @@
-# React + Vite
+# 💇‍♀️ Studio P Concept
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Site institucional desenvolvido para o salão de beleza Studio P Concept, com foco em elegância, responsividade e experiência do usuário.
 
-Currently, two official plugins are available:
+## ✨ Sobre o projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+O Studio P Concept é um salão especializado em:
 
-## React Compiler
+- Corte feminino
+- Coloração
+- Mechas
+- Tratamentos capilares
+- Escova
+- Babyliss
+- Manicure e pedicure
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+O objetivo do projeto foi criar uma presença digital moderna, transmitindo sofisticação, confiança e profissionalismo.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tecnologias utilizadas
+
+- React
+- Vite
+- JavaScript
+- CSS3
+- HTML5
+- React Icons
+
+---
+
+## 📱 Responsividade
+
+O site foi desenvolvido para funcionar em:
+
+✅ Desktop
+
+✅ Notebook
+
+✅ Tablet
+
+✅ Smartphones
+
+---
+
+## 🎨 Design
+
+O visual foi construído utilizando uma identidade elegante e feminina:
+
+- Rosa sofisticado
+- Branco
+- Tons neutros
+- Tipografia premium (Playfair Display + Montserrat)
+
+---
+
+## 📸 Funcionalidades
+
+- Menu de navegação
+- Seção sobre o salão
+- Apresentação dos serviços
+- Galeria de trabalhos
+- Marcas profissionais utilizadas
+- Contato
+- Botão flutuante do WhatsApp
+- Layout responsivo
+
+---
+
+## 🖼️ Preview
+
+![Preview do projeto](./public/preview.png)
+
+---
+
+## 📂 Como executar o projeto
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/seuusuario/studio-p-concept.git
+```
+
+Acesse a pasta:
+
+```bash
+cd studio-p-concept
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Execute:
+
+```bash
+npm run dev
+```
+
+---
+
+## 👩‍💻 Desenvolvido por
+
+**Paula Bezerra**
+
+Desenvolvedora Front-End em formação.
+
+### Contato
+
+- LinkedIn
+- GitHub
+- E-mail
+
